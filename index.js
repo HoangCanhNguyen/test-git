@@ -10,8 +10,10 @@ const checker = arr.every((x) => {
 const isBelowThreshold = (currentValue) => currentValue < 40;
 
 const array1 = [1, 30, 39, 29, 10, 13];
-
+string_test.
 console.log(array1.every(isBelowThreshold));
+
+console.log("hello world")
 
 console.log(checker);
 console.log(typeof(num));
