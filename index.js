@@ -14,6 +14,10 @@ string_test.
 console.log(array1.every(isBelowThreshold));
 
 console.log("hello world")
+console.log("hello world 2")
+console.log("hello world 3")
+
+
 
 console.log(checker);
 console.log(typeof(num));
